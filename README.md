@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**AmithS01/AmithS01** 
+**AmithS01** 
 
 ## Somethings about me:
 
