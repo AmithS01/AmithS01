@@ -2,7 +2,7 @@
 
 **AmithS01** 
 
-## Somethings about me:
+## Something about me:
 
 - **🔭 I’m currently working on Hacking**
 - I’m currently learning *Coding*... and also I am Class 10
