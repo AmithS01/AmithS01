@@ -4,7 +4,7 @@
 
 # Here are some ideas to get you started:
 
-- `🔭 I’m currently working on Hacking`
+- **🔭 I’m currently working on Hacking**
 - I’m currently learning *Coding*... and also I am Class 10
 - 👯 I’m looking to collaborate on **Science**
 - 🤔 I’m looking for help with *Advanced* Hacking!
