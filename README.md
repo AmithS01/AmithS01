@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-**AmithS01** 
-
+# Amith Here
+![image](https://instagram.fblr1-5.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/45582206_1161479487334343_921145712223449844_n.jpg?_nc_ht=instagram.fblr1-5.fna.fbcdn.net&_nc_cat=111&_nc_ohc=UENsgH-BVhUAX8K6NvY&oh=2c9f2cf9abb2359d99e48d42e9618fa3&oe=5F843D9D)
 ## Something about me:
 
 # **🔭 I’m currently working on A Covid 19 Project**
