@@ -10,7 +10,7 @@
 - 📫 **How to reach me**  : _7760415252_
 ##  ⚡ **Fun fact** : Never question about **me**!
 ### Here are some of my friends... don't forget to check them out!
-1.[MrTechTroid](https://github.com/mrtechtroid)(This guy's name is a ***secret**!)
+1.[MrTechTroid](https://github.com/mrtechtroid)(This guy's name is a **secret**!)
 
 2.[P S Mithul Sourav](https://github.com/psmithulsourav)
 
