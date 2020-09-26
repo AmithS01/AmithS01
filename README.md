@@ -1,6 +1,5 @@
 ### Hi there 👋
 # Amith Here
-![image](https://instagram.fblr1-5.fna.fbcdn.net/v/t51.2885-15/e35/s480x480/45582206_1161479487334343_921145712223449844_n.jpg?_nc_ht=instagram.fblr1-5.fna.fbcdn.net&_nc_cat=111&_nc_ohc=UENsgH-BVhUAX8K6NvY&oh=2c9f2cf9abb2359d99e48d42e9618fa3&oe=5F843D9D)
 ## Something about me:
 
 # **🔭 I’m currently working on A Covid 19 Project**
@@ -10,3 +9,8 @@
 - 💬 **Text me on Instagram** :*@am_a_myth755*
 - 📫 **How to reach me**  : _7760415252_
 ##  ⚡ **Fun fact** : Never question about **me**!
+### Here are some of my friends... don't forget to check them out!
+[MrTechTroid](https://github.com/mrtechtroid)
+[P S Mithul Sourav](https://github.com/psmithulsourav)
+[Pranam M G](https://github.com/Pranam1267)
+[Sumedh Udupa U](https://github.com/sumedhudupa)
