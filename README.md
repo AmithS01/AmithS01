@@ -1,5 +1,6 @@
 ### Hi there 👋
 # Amith Here
+![This is me!](https://github.com/AmithS01/AmithS01/blob/master/amith.jpg?raw=true)
 ## Something about me:
 
 # **🔭 I’m currently working on A Covid 19 Project**
