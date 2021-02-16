@@ -6,8 +6,8 @@
 - I’m currently learning *Coding*... and also I am Class 10
 - 👯 I’m looking to collaborate on **Coding**
 - 🤔 I’m looking for help with  _Ethical Hacking_!
-- 💬 **Text me on Instagram** :[*@lonely_hacker755*](https://www.instagram.com/lonely_hacker755/)
-- 📫 **How to reach me**  : _7760415252_
+- 💬 **Text me on Instagram** :[*@a_mythical_hacker755*](https://www.instagram.com/a_mythical_hacker755/)
+- 📫 **How to reach me**  : _7760315252_
 ##  ⚡ **Fun fact** : Never question about **me**!
 ### Here are some of my friends... don't forget to check them out!
 1.[MrTechTroid](https://github.com/mrtechtroid)(This guy's name is a **secret**!)
