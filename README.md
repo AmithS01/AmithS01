@@ -7,7 +7,7 @@
 - I’m currently learning *Coding*... and also I am Class 10
 - 👯 I’m looking to collaborate on **Coding**
 - 🤔 I’m looking for help with  _Ethical Hacking_!
-- 💬 **Text me on Instagram** :[*@a_myth0755*](https://www.instagram.com/a_myth0755/)
+- 💬 **Text me on Instagram** :[*@amyth0755*](https://www.instagram.com/amyth0755/)
 - 📫 **How to reach me**  : _7760315252_
 ##  ⚡ **Fun fact** : Never question about **me**!
 ### Here are some of my friends... don't forget to check them out!
