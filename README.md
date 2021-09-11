@@ -3,8 +3,8 @@
 ![This is me!](https://github.com/AmithS01/AmithS01/blob/master/amith.jpg?raw=true)
 ## Something about me:
 
-# **🔭 I’m currently working on A Covid 19 Project**
-- I’m currently learning *Coding*... and also I am Class 10
+# **🔭 I’m currently working on Automation and Python**
+- I’m currently learning *Coding*... and also I am Class 11
 - 👯 I’m looking to collaborate on **Coding**
 - 🤔 I’m looking for help with  _Ethical Hacking_!
 - 💬 **Text me on Instagram** :[*@amyth0755*](https://www.instagram.com/amyth0755/)
